@@ -68,3 +68,5 @@ I am a developer focused on building responsive web applications and experimenti
 </div>
 
 </div>
+
+![Snake svg](https://github.com/Intellecta2/Intellecta2/raw/output/github-contribution-grid-snake-dark.svg)
