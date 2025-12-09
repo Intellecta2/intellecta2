@@ -44,7 +44,8 @@ I am a developer focused on building responsive web applications and experimenti
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Intellecta2&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Intellecta2&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  
 </div>
 
 ---
