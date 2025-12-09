@@ -39,16 +39,12 @@ I am a developer focused on building responsive web applications and experimenti
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Intellecta2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intellecta2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Intellecta2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intellecta2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Intellecta2&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Intellecta2&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 
 ---
@@ -64,13 +60,11 @@ I am a developer focused on building responsive web applications and experimenti
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Intellecta2/Intellecta2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
 
-</div>
-
-![Snake svg](https://github.com/Intellecta2/Intellecta2/raw/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Intellecta2/Intellecta2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
