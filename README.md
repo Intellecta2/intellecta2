@@ -18,7 +18,7 @@
 
 I am a developer focused on building responsive web applications and experimenting with modern design. My repositories range from portfolio templates to innovative government solutions.
 
-- 🔭 I’m currently working on **PARAMPARA** and **Brainbook**.
+- 🔭 I’m currently working on **RegOS** and **BioSaathi**.
 - 🌱 I’m currently learning **Advanced JavaScript & React**.
 - 💬 Ask me about **HTML5, CSS3, and Frontend Architecture**.
 
@@ -54,8 +54,8 @@ I am a developer focused on building responsive web applications and experimenti
 
 | **Project** | **Description** | **Tech** |
 |:---:|:---:|:---:|
-| **[PARAMPARA](https://github.com/Intellecta2/PARAMPARA)** | My featured JavaScript project. | `JavaScript` |
-| **[The-Gov-Innovators](https://github.com/Intellecta2/The-Gov-Innovators)** | Solutions for government innovation. | `HTML/CSS` |
+| **[Verity](https://github.com/Intellecta2/verity)** | My featured JavaScript project. | `JavaScript` |
+| **[RegOs](https://github.com/Intellecta2/RegOS)** | Solutions for Share Market innovation. | `TypeScript` |
 | **[Brainbook](https://github.com/Intellecta2/Brainbook)** | Knowledge management structure. | `HTML` |
 
 ---
